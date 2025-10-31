@@ -1,0 +1,6 @@
+qiskit>=1.0
+qiskit-aer>=0.14
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+ipywidgets>=8.0  # optional: for interactive notebook UI
